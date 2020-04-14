@@ -1,0 +1,33 @@
+﻿,C,H,N,O,P,S
+Aspartate,4,7,1,4,0,0
+Argininosuccinate,10,18,4,6,0,0
+Fumarate,4,4,0,4,0,0
+Arginine,6,14,4,2,0,0
+Urea,1,4,2,1,0,0
+Ornithine,5,12,2,2,0,0
+Carbamoyl phosphate,1,4,1,5,1,0
+Citrulline,6,13,3,3,0,0
+ATP,10,16,5,13,3,0
+AMP,10,14,5,7,1,0
+Diphosphate,0,4,0,7,2,0
+Water,0,2,0,1,0,0
+Orthophos,0,3,0,4,1,0
+O2,0,0,0,2,0,0
+NADPH,21,30,7,17,3,0
+H+,0,1,0,0,0,0
+NO,0,0,1,1,0,0
+NADP+,21,29,7,17,3,0
+Aspartate,4,7,1,4,0,0
+Fumarate,4,4,0,4,0,0
+Urea,1,4,2,1,0,0
+Carbamoyl phosphate,1,4,1,5,1,0
+ATP,10,16,5,13,3,0
+AMP,10,14,5,7,1,0
+Diphosphate,0,4,0,7,2,0
+Water,0,2,0,1,0,0
+Orthophos,0,3,0,4,1,0
+O2,0,0,0,2,0,0
+NADPH,21,30,7,17,3,0
+H+,0,1,0,0,0,0
+NO,0,0,1,1,0,0
+NADP+,21,29,7,17,3,0
